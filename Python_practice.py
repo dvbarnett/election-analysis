@@ -38,3 +38,4 @@ for county_dict in voting_data:
 for county_dict in voting_data:
     for value in county_dict.values():
         print(value)
+print(county_dict)
